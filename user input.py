@@ -1,3 +1,4 @@
+# User input for strings
 Name=input('Please enter your prity name: ')
 print('Hello', Name, 'your welcom to learn this language:')
 
@@ -9,9 +10,9 @@ y=input('Please enter your second number: ')
 d=x+y
 print(x ,'+',y,'=', d)
 
-
-a=int(input('please enter first number: '))
-b=int(input('please enter second number: '))
+# User input for number
+a=int(input('\nPlease enter first number: '))
+b=int(input('Please enter second number: '))
 c=a+b
 print(a,'+',b,'=',c)
 
